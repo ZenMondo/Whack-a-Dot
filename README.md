@@ -11,6 +11,7 @@ The screen I have uses a ST7781 LCD driver, Other versions may use an ILI9341
 Uses the following libraries:
   
 https://github.com/yamsam/TFTLCD_ST7781
+
 https://github.com/adafruit/Adafruit_TouchScreen
   
 Based on an example by William Tavares 
